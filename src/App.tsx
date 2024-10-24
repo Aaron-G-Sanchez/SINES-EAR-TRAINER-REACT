@@ -1,5 +1,5 @@
 import './App.scss'
-import {beginner} from'./frequencies.json'
+import {beginner} from'./public/frequencies.json'
 
 export const App = () => {
 

@@ -3,3 +3,28 @@
   width: 100%;
 }
 
+main {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  height: 10%;
+  width: 100%;
+}
+
+.title {
+  font-size: 48px;
+}
+
+.frequency-cards-container {
+  align-items: center;
+  display: flex;
+  height: 90%;
+  justify-content: center;
+  width: 85%;
+  gap: 24px;
+}
